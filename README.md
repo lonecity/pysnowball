@@ -23,9 +23,6 @@ pip install pysnowball
 
 传送门 === [如何获取雪球token](https://blog.crackcreed.com/diy-xue-qiu-app-shu-ju-api/)
 
-## 联系作者
-
-![img](https://blog.crackcreed.com/content/images/2021/02/wechat_me-1.jpg)
 
 ## APIs
 
